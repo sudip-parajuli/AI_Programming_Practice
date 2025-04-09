@@ -32,7 +32,7 @@ On Windows:
     .venv\Scripts\activate
 
 On Mac/Linux:
-    ```bash
+    
     source .venv/bin/activate
 
 4. Install any required packages:
@@ -45,7 +45,8 @@ On Mac/Linux:
 
 📊 Dataset
 
-    Spam detection uses SMS Spam Collection Dataset.
+    Spam detection uses [SMS Spam Collection Dataset on Kaggle](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset).
+
 
 
 🤝 Contributions
